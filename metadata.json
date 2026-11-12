@@ -1,0 +1,6 @@
+{
+  "name": "PustakaNovel - Perpustakaan & Ruang Baca Novel Pribadi",
+  "description": "Perpustakaan digital untuk menyimpan, menyusun, dan menikmati koleksi novel pribadi, pelacak progres membaca, jurnal kutipan emas, dan e-reader bab interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
